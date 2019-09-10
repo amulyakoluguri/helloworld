@@ -1,2 +1,4 @@
 # helloworld
-geeting every one
+greeting every one
+saying hello
+how r we
